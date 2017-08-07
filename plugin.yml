@@ -1,0 +1,8 @@
+name: KS
+author: Neziaa
+version: 1.0
+main: fr.neziaa.ks.Core
+commands:
+  ks:
+    syntax: /ks
+    description: Affiche le KS
